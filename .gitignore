@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 data/title.ratings.tsv
 data/title.akas.tsv
 data/title.principals.tsv
 data/title.basics.tsv
 data/name.basics.tsv
+=======
+# Ignore data files
+data/name.basics.tsv
+data/title.akas.csv
+data/title.basics.tsv
+data/title.principals.tsv
+>>>>>>> 855e3dd84082cc86a93f68c454465b27eb1cf1a3
