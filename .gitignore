@@ -1,0 +1,6 @@
+# Ignore data files
+data/imdb/name.basics.tsv
+data/imdb/title.akas.csv
+data/imdb/title.basics.tsv
+data/imdb/title.principals.tsv
+data/IMDB.zip
